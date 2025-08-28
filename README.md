@@ -15,12 +15,12 @@
 ---
 
 ## 📦 Structure
-core/
-├─ syllabus.md     → Parse syllabus, identify weight & scoring priorities
-├─ lectures.md     → Predict quizzes, reinforce definitions & key concepts
-├─ assignments.md  → Build rubric-aligned written answers
-├─ project.md      → Topic → Proposal → Execution Plan → Draft → Defense
-├─ exam.md         → Coverage map → Review plan → Mock questions
+core/  
+├─ syllabus.md     → Parse syllabus, identify weight & scoring priorities  
+├─ lectures.md     → Predict quizzes, reinforce definitions & key concepts  
+├─ assignments.md  → Build rubric-aligned written answers  
+├─ project.md      → Topic → Proposal → Execution Plan → Draft → Defense  
+├─ exam.md         → Coverage map → Review plan → Mock questions  
 
 overlay/
 course customization overlay.md         → Global execution behavior & alignment protocol
