@@ -16,14 +16,16 @@
 
 ## 📦 Structure
 core/
-syllabus.md # Syllabus analysis & action plan
-lectures.md # Key concepts → Quiz predictions → Definitions & formulas
-assignments.md # Full-mark assignment workflow (rubric mapping & self-check)
-project.md # Topic seeds → Briefs → Execution plan → Drafting
-exam.md # Coverage map → Concept review → Question bank → (Optional) Mock → Self-check
+├─ syllabus.md     → Parse syllabus, identify weight & scoring priorities
+├─ lectures.md     → Predict quizzes, reinforce definitions & key concepts
+├─ assignments.md  → Build rubric-aligned written answers
+├─ project.md      → Topic → Proposal → Execution Plan → Draft → Defense
+├─ exam.md         → Coverage map → Review plan → Mock questions
+
 overlay/
-course customization overlay.md # Global course customization overlay
-disclaimer.md # Academic integrity disclaimer
+course customization overlay.md         → Global execution behavior & alignment protocol
+disclaimer.md      → AI usage statement
+
 
 ---
 
