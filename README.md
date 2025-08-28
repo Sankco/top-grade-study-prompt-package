@@ -5,7 +5,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 - **Global Overlay**: Unified execution rules, enforces rubric alignment and instructor style.
 - **5 Core Modules**: Syllabus / Lectures / Assignments / Project / Exam, each with PAUSE/STOP pacing.
 - **Course-Agnostic**: Works for STEM, programming, humanities, business, law, and language courses; adapts to undergraduate, master’s, or doctoral level.
@@ -14,7 +14,7 @@
 
 ---
 
-## 📦 Structure
+##  Structure
 core/  
 ├─ syllabus.md     → Parse syllabus, identify weight & scoring priorities  
 ├─ lectures.md     → Predict quizzes, reinforce definitions & key concepts  
@@ -30,14 +30,14 @@ disclaimer.md      → AI usage statement
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 1. **Start with the course customization overlay.md**: Copy the content and prepend it to your prompt to activate the global behavior controls. 
 2. **Select a module** (copy from `core/*`).  
 3. **Paste your course artifacts** (syllabus, rubric, lecture notes) and proceed step by step following the PAUSE/STOP flow.
 
 ---
 
-## 🧩 Module Cheatsheet
+##  Module Cheatsheet
 - **Syllabus**: Extract grading breakdown, mark high-weight ⚡, generate action plan.
 - **Lectures**: Teach from zero → Predict quiz Q&A → List essential definitions & formulas.
 - **Assignments**: Strictly lecture-aligned answers; rubric mapping + self-check.
@@ -46,6 +46,6 @@ disclaimer.md      → AI usage statement
 
 ---
 
-## 🔒 Disclaimer
+##  Disclaimer
 Follow your course’s AI usage policies and academic integrity rules.  
 This package is for learning support, not for copy-paste submission. See `disclaimer.md` for details.
