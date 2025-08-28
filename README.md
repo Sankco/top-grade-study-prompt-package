@@ -22,9 +22,10 @@ core/
 ├─ project.md      → Topic → Proposal → Execution Plan → Draft → Defense  
 ├─ exam.md         → Coverage map → Review plan → Mock questions  
 
-overlay/
-course customization overlay.md         → Global execution behavior & alignment protocol
-disclaimer.md      → AI usage statement
+overlay/  
+├─ course customization overlay.md         → Global execution behavior & alignment protocol  
+
+disclaimer.md      → AI usage statement  
 
 
 ---
