@@ -38,7 +38,7 @@ disclaimer.md      → AI usage statement
 ---
 
 ##  Module Cheatsheet
-- **Syllabus**: Extract grading breakdown, mark high-weight ⚡, generate action plan.
+- **Syllabus**: Extract grading breakdown, mark high-weight, generate action plan.
 - **Lectures**: Teach from zero → Predict quiz Q&A → List essential definitions & formulas.
 - **Assignments**: Strictly lecture-aligned answers; rubric mapping + self-check.
 - **Project**: 20–30 seeds → Expanded briefs → Execution plan → Iterative drafts.
