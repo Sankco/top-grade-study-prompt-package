@@ -10,7 +10,7 @@
 - **5 Core Modules**: Syllabus / Lectures / Assignments / Project / Exam, each with PAUSE/STOP pacing.
 - **Course-Agnostic**: Works for STEM, programming, humanities, business, law, and language courses; adapts to undergraduate, master’s, or doctoral level.
 - **Platform-Friendly**: Considers Canvas / Gradescope submission formats and constraints.
-- **Score-Oriented**: Highlights high-weight ⚡ components and penalty-avoidance tactics.
+- **Score-Oriented**: Highlights high-weight components and penalty-avoidance tactics.
 
 ---
 
