@@ -28,7 +28,7 @@ disclaimer.md # Academic integrity disclaimer
 ---
 
 ## 🚀 Quick Start
-1. **Read `overlay`** for global rules & conventions then paste it before each module.  
+1. **Start with the course customization overlay.md**: Copy the content and prepend it to your prompt to activate the global behavior controls. 
 2. **Select a module** (copy from `core/*`).  
 3. **Paste your course artifacts** (syllabus, rubric, lecture notes) and proceed step by step following the PAUSE/STOP flow.
 
